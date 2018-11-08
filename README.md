@@ -1,7 +1,7 @@
 # Automatic-IP-Address-Publish
 A shell script to automatically publish your public WAN IP address to the internet.
 
-To automate the publication of your WAN IP address you could run this script on schedule by entering in the following in your crontab:
+To automate this you can trigger this script on schedule by entering the following in to your crontab:
 
 ```*/30 * * * * bash /script/path/publish-ip.sh```
 
